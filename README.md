@@ -4,7 +4,7 @@ GPT List:
 
 [Investment Banking GPT](https://chatgpt.com/g/g-6746271f12f08191adcf8730f52f26e9-investment-banking-gpt-less-admin-more-deals)
 
-Description: A tool that enables Investment Banking Professionals to do more with less by automating mundane admin tasks, to focus on closing more deals with tailored cutting-edge insights, enhancing overall productivity.
+Description: A tool that enables Investment Banking Professionals to do "more with less" by automating mundane admin tasks, and focus on closing more deals with tailored cutting-edge insights, enhancing overall productivity.
 
 Key Features: Support high-level investment banking discussions:
 
