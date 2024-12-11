@@ -3,10 +3,10 @@ Welcome to my GPT Suite Repository, a collection of specialized GPTs designed fo
 
 GPT List: [Investment Banking GPT](https://chatgpt.com/g/g-6746271f12f08191adcf8730f52f26e9-investment-banking-gpt-less-admin-more-deals)
 Description: Streamline Admin Tasks, Enhance productivity, Focus on Closing More Deals with Cutting-Edge Insights and Automation Tailored for Investment Banking Professionals
+
 Key Features: Support high-level investment banking discussions:
 
 Strategic Insights for Corporate Finance:
-
 Expertise in mergers and acquisitions (M&A), debt/equity capital markets, and industry-specific analysis.
 Advanced understanding of valuation techniques including Discounted Cash Flow (DCF), comparable companies analysis, and precedent transaction analysis​​.
 Advanced Financial Modeling and Valuation:
